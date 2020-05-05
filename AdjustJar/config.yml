@@ -1,0 +1,8 @@
+# Configuration for JAR elimination
+in_jar: "cm.jar"
+out_jar: "vmh.jar"
+
+rm_objects: 
+    - /..APCustomerRefundsHeaderExtractDetailRecord
+    - .*/cm/api/batch/CmAPCustRefundsLineExtractDetailRecord.class
+    - ^services/

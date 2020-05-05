@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AdjustJar", "AdjustJar\AdjustJar.pyproj", "{82CB5831-635B-4A8B-B602-DC0FB6236830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82CB5831-635B-4A8B-B602-DC0FB6236830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CB5831-635B-4A8B-B602-DC0FB6236830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E82EA7B5-7070-47A3-BF6E-91C1CCB58493}
+	EndGlobalSection
+EndGlobal
